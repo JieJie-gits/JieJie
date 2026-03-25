@@ -86,5 +86,10 @@ namespace test.Frm
             GlobalMode.CloseAllChiIdForms(GlobalMode.ClassFrm.frmMain.panel1_home, GlobalMode.ClassFrm.frmMain);
             Application.Exit();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
