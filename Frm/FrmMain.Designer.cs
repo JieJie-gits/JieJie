@@ -45,9 +45,8 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1_home = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.label5 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
@@ -69,10 +68,10 @@
             this.btn_Initialization.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btn_Initialization.Dock = System.Windows.Forms.DockStyle.Fill;
             this.btn_Initialization.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btn_Initialization.Location = new System.Drawing.Point(276, 0);
+            this.btn_Initialization.Location = new System.Drawing.Point(282, 0);
             this.btn_Initialization.Margin = new System.Windows.Forms.Padding(0);
             this.btn_Initialization.Name = "btn_Initialization";
-            this.btn_Initialization.Size = new System.Drawing.Size(92, 76);
+            this.btn_Initialization.Size = new System.Drawing.Size(94, 76);
             this.btn_Initialization.TabIndex = 1;
             this.toolTip1.SetToolTip(this.btn_Initialization, "初始化系统");
             this.btn_Initialization.UseVisualStyleBackColor = false;
@@ -85,10 +84,10 @@
             this.btn_home.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btn_home.Cursor = System.Windows.Forms.Cursors.Default;
             this.btn_home.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btn_home.Location = new System.Drawing.Point(92, 0);
+            this.btn_home.Location = new System.Drawing.Point(94, 0);
             this.btn_home.Margin = new System.Windows.Forms.Padding(0);
             this.btn_home.Name = "btn_home";
-            this.btn_home.Size = new System.Drawing.Size(92, 76);
+            this.btn_home.Size = new System.Drawing.Size(94, 76);
             this.btn_home.TabIndex = 0;
             this.toolTip1.SetToolTip(this.btn_home, "主页");
             this.btn_home.UseVisualStyleBackColor = false;
@@ -100,10 +99,10 @@
             this.btn_close.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_close.BackgroundImage")));
             this.btn_close.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btn_close.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btn_close.Location = new System.Drawing.Point(184, 0);
+            this.btn_close.Location = new System.Drawing.Point(188, 0);
             this.btn_close.Margin = new System.Windows.Forms.Padding(0);
             this.btn_close.Name = "btn_close";
-            this.btn_close.Size = new System.Drawing.Size(92, 76);
+            this.btn_close.Size = new System.Drawing.Size(94, 76);
             this.btn_close.TabIndex = 2;
             this.toolTip1.SetToolTip(this.btn_close, "退出系统");
             this.btn_close.UseVisualStyleBackColor = false;
@@ -118,7 +117,7 @@
             this.btn_setting.Location = new System.Drawing.Point(0, 0);
             this.btn_setting.Margin = new System.Windows.Forms.Padding(0);
             this.btn_setting.Name = "btn_setting";
-            this.btn_setting.Size = new System.Drawing.Size(92, 76);
+            this.btn_setting.Size = new System.Drawing.Size(94, 76);
             this.btn_setting.TabIndex = 3;
             this.toolTip1.SetToolTip(this.btn_setting, "系统参数 ");
             this.btn_setting.UseVisualStyleBackColor = false;
@@ -138,9 +137,9 @@
             this.panel3.Controls.Add(this.label2);
             this.panel3.Controls.Add(this.label1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel3.Location = new System.Drawing.Point(3, 851);
+            this.panel3.Location = new System.Drawing.Point(3, 907);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1282, 47);
+            this.panel3.Size = new System.Drawing.Size(1304, 47);
             this.panel3.TabIndex = 8;
             // 
             // label4
@@ -202,7 +201,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(3, 24);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1282, 76);
+            this.panel2.Size = new System.Drawing.Size(1304, 76);
             this.panel2.TabIndex = 9;
             // 
             // tableLayoutPanel1
@@ -223,36 +222,19 @@
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1282, 76);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1304, 76);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // panel1_home
             // 
             this.panel1_home.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.panel1_home.Controls.Add(this.button2);
-            this.panel1_home.Controls.Add(this.button1);
             this.panel1_home.Controls.Add(this.label5);
             this.panel1_home.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1_home.Location = new System.Drawing.Point(3, 100);
             this.panel1_home.Name = "panel1_home";
-            this.panel1_home.Size = new System.Drawing.Size(1282, 751);
+            this.panel1_home.Size = new System.Drawing.Size(1304, 807);
             this.panel1_home.TabIndex = 11;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(444, 315);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(62, 18);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "label5";
             // 
             // button2
             // 
@@ -264,12 +246,21 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(444, 315);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(62, 18);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "label5";
+            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1288, 901);
+            this.ClientSize = new System.Drawing.Size(1310, 957);
             this.Controls.Add(this.panel1_home);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
@@ -309,7 +300,6 @@
         public System.Windows.Forms.Panel panel1_home;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
     }
 }

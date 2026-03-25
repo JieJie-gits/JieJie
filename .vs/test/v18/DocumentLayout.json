@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|solutionrelative:frm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|e:\\\u4E2A\u4EBA\u9879\u76EE\\test\\jiejie\\frm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|E:\\\u4E2A\u4EBA\u9879\u76EE\\test\\JieJie\\frm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|solutionrelative:frm\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|e:\\\u4E2A\u4EBA\u9879\u76EE\\test\\jiejie\\frm\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|E:\\\u4E2A\u4EBA\u9879\u76EE\\test\\JieJie\\frm\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|solutionrelative:frm\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|e:\\\u4E2A\u4EBA\u9879\u76EE\\test\\jiejie\\frmtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|E:\\\u4E2A\u4EBA\u9879\u76EE\\test\\JieJie\\frmtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7E1B19D4-F126-4C55-B8BA-E46089E5AF1A}|test.csproj|solutionrelative:frmtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Frm\\FrmMain.cs",
               "ToolTip": "E:\\\u4E2A\u4EBA\u9879\u76EE\\test\\JieJie\\Frm\\FrmMain.cs",
               "RelativeToolTip": "Frm\\FrmMain.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAqwFUAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAlwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T11:27:34.17Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "ToolTip": "E:\\\u4E2A\u4EBA\u9879\u76EE\\test\\JieJie\\FrmTool.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "FrmTool.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T11:27:00.212Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-03-25T11:27:00.212Z"
             }
           ]
         }
