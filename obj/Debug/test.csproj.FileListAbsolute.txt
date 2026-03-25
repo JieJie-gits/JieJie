@@ -1,0 +1,17 @@
+E:\个人项目\test\bin\Debug\test.exe.config
+E:\个人项目\test\bin\Debug\test.exe
+E:\个人项目\test\bin\Debug\test.pdb
+E:\个人项目\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\个人项目\test\obj\Debug\test.Properties.Resources.resources
+E:\个人项目\test\obj\Debug\test.csproj.GenerateResource.cache
+E:\个人项目\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\个人项目\test\obj\Debug\test.exe
+E:\个人项目\test\obj\Debug\test.pdb
+E:\个人项目\test\obj\Debug\test.FrmTool.resources
+E:\个人项目\test\obj\Debug\test.Frm.FrmHome.resources
+E:\个人项目\test\obj\Debug\test.Frm.FrmLogin.resources
+E:\个人项目\test\obj\Debug\test.Frm.FrmMain.resources
+E:\个人项目\test\obj\Debug\test.Frm.FrmSetting.resources
+E:\个人项目\test\bin\Debug\ReaLTaiizor.dll
+E:\个人项目\test\bin\Debug\ReaLTaiizor.xml
+E:\个人项目\test\obj\Debug\test.csproj.Up2Date
